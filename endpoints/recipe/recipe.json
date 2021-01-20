@@ -1,0 +1,582 @@
+{
+    "id": 7189,
+    "isSponsoredContent": true,
+    "inspirationCards": [
+        {
+            "title": "Apfelkuchen",
+            "numberLabel": "21 Rezepte",
+            "image": "https://picsum.photos/id/136/96/96",
+            "href": "/apfelkuchen-rezepte"
+        },
+        {
+            "title": "Kuchen",
+            "numberLabel": "218 Rezepte",
+            "image": "https://picsum.photos/id/146/96/96",
+            "href": "/kuchen-rezepte"
+        },
+        {
+            "title": "Obstkuchen",
+            "numberLabel": "71 Rezepte",
+            "image": "https://picsum.photos/id/144/96/96",
+            "href": "/obstkuchen-rezepte"
+        },
+        {
+            "title": "Obstkuchen",
+            "numberLabel": "71 Rezepte",
+            "image": "https://picsum.photos/id/144/96/96",
+            "href": "/obstkuchen-rezepte"
+        },
+        {
+            "title": "Rührkuchen",
+            "numberLabel": "68 Rezepte",
+            "image": "https://picsum.photos/id/152/96/96",
+            "href": "/ruehrkuchen-rezepte"
+        },
+        {
+            "title": "Herbstrezepte",
+            "numberLabel": "94 Rezepte",
+            "image": "https://picsum.photos/id/153/96/96",
+            "href": "/herbst-rezepte"
+        }
+    ],
+    "gallery": [
+        {
+            "alt": "Picture of some cake #1",
+            "sources": {
+                "sm": "https://picsum.photos/id/1025/768/375",
+                "md": "https://picsum.photos/id/1025/1024/375",
+                "lg": "https://picsum.photos/id/1025/1280/375",
+                "default": "https://picsum.photos/id/1025/640/375"
+            }
+        },
+        {
+            "alt": "Picture of some cake #2",
+            "sources": {
+                "sm": "https://picsum.photos/id/1037/768/375",
+                "md": "https://picsum.photos/id/1037/1024/375",
+                "lg": "https://picsum.photos/id/1037/1280/375",
+                "default": "https://picsum.photos/id/1037/640/375"
+            }
+        },
+        {
+            "alt": "Picture of some cake #3",
+            "sources": {
+                "sm": "https://picsum.photos/id/1049/768/375",
+                "md": "https://picsum.photos/id/1049/1024/375",
+                "lg": "https://picsum.photos/id/1049/1280/375",
+                "default": "https://picsum.photos/id/1049/640/375"
+            }
+        },
+        {
+            "alt": "Picture of some cake #4",
+            "sources": {
+                "sm": "https://picsum.photos/id/1062/768/375",
+                "md": "https://picsum.photos/id/1062/1024/375",
+                "lg": "https://picsum.photos/id/1062/1280/375",
+                "default": "https://picsum.photos/id/1062/640/375"
+            }
+        }
+    ],
+    "video": {
+        "poster": {
+            "sm": "https://picsum.photos/id/1072/768/375",
+            "md": "https://picsum.photos/id/1072/1024/375",
+            "lg": "https://picsum.photos/id/1072/1280/375",
+            "default": "https://picsum.photos/id/1072/640/375"
+        },
+        "source": "https://www.w3schools.com/html/mov_bbb.mp4"
+    },
+    "name": "Schoko-Nuss-Kuchen",
+    "rating": 3.7,
+    "numberOfRatings": 191,
+    "description": "Ein leckeres und einfaches Rezept für alle, die Nüsse und Schokolade lieben. In einem Kuchen vereint sind beide [einfach](/biskuitrollen-rezepte) perfekt.",
+    "author": {
+        "image": "https://i.pravatar.cc/64",
+        "name": "Laura Altebaeumer"
+    },
+    "difficulty": {
+        "level": 2,
+        "name": "Mittel"
+    },
+    "servingAmount": {
+        "amount": 12,
+        "unit": "Scheiben"
+    },
+    "duration": {
+        "preparation": 30,
+        "baking": 65,
+        "resting": 60,
+        "cooling": 35
+    },
+    "moulds": [
+        {
+            "id": 22871,
+            "name": "Kastenform",
+            "isDefault": true,
+            "sizes": [
+                {
+                    "id": 22884,
+                    "isDefault": true,
+                    "name": "25 x 11 cm"
+                },
+                {
+                    "id": 22882,
+                    "isDefault": false,
+                    "name": "15 x 6,5 cm"
+                },
+                {
+                    "id": 22883,
+                    "isDefault": false,
+                    "name": "20 x 11 cm"
+                },
+                {
+                    "id": 22885,
+                    "isDefault": false,
+                    "name": "30 x 13 cm"
+                },
+                {
+                    "id": 22886,
+                    "isDefault": false,
+                    "name": "35 x 12 cm "
+                }
+            ]
+        },
+        {
+            "id": 22870,
+            "name": "Gugelhupfform",
+            "isDefault": false,
+            "sizes": [
+                {
+                    "id": 22874,
+                    "isDefault": false,
+                    "name": "ø 18 cm"
+                },
+                {
+                    "id": 22876,
+                    "isDefault": false,
+                    "name": "ø 22 cm"
+                },
+                {
+                    "id": 22877,
+                    "isDefault": false,
+                    "name": "ø 24 cm"
+                },
+                {
+                    "id": 22881,
+                    "isDefault": false,
+                    "name": "ø 25 cm"
+                }
+            ]
+        },
+        {
+            "id": 22872,
+            "name": "Springform",
+            "isDefault": false,
+            "sizes": [
+                {
+                    "id": 22874,
+                    "isDefault": false,
+                    "name": "ø 18 cm"
+                },
+                {
+                    "id": 22875,
+                    "isDefault": false,
+                    "name": "ø 20 cm"
+                },
+                {
+                    "id": 22876,
+                    "isDefault": false,
+                    "name": "ø 22 cm"
+                },
+                {
+                    "id": 22877,
+                    "isDefault": false,
+                    "name": "ø 24 cm"
+                },
+                {
+                    "id": 22878,
+                    "isDefault": false,
+                    "name": "ø 26 cm"
+                },
+                {
+                    "id": 22879,
+                    "isDefault": false,
+                    "name": "ø 28 cm"
+                },
+                {
+                    "id": 22880,
+                    "isDefault": false,
+                    "name": "ø 30 cm"
+                }
+            ]
+        }
+    ],
+    "shouldKnows": [
+        {
+            "text": "Diesen Kuchen kannst du gut verpackt für 2-3 Tage im Kühlschrank aufbewahren."
+        },
+        {
+            "text": "Dieses Gebäck kannst du in einzelnen Stücken, luftdicht verpackt für bis zu 3 Monate einfrieren."
+        },
+        {
+            "text": "Wenn du unseren Backform-Umrechner nutzt, prüfe regelmäßig den Backfortschritt deines Gebäcks. Falls es zu dunkel wird, decke es im Ofen mit einem Bogen Backpapier ab."
+        }
+    ],
+    "ingredients": [
+        {
+            "unit": "g",
+            "amount": 30,
+            "name": "Butter"
+        },
+        {
+            "unit": "g",
+            "amount": 15,
+            "name": "Speisestärke",
+            "product": {
+                "image": "https://picsum.photos/id/1084/88/88",
+                "name": "Gustin Feine Speisestärke von Dr. Oetker ",
+                "href": "https://www.oetker-shop.de/gustin-feine-speisestaerke/?number=60-1-01-190100",
+                "price": 4.48
+            }
+        },
+        {
+            "unit": "g",
+            "amount": 95,
+            "name": "Zucker"
+        },
+        {
+            "unit": "g",
+            "amount": 105,
+            "name": "Weizenmehl "
+        },
+        {
+            "amount": 5,
+            "name": "Eier (Größe M)"
+        },
+        {
+            "unit": "etwas",
+            "name": "gelbe Lebensmittelfarbe",
+            "product": {
+                "image": "https://picsum.photos/id/111/88/88",
+                "name": "\"4 Back- & Speisefarben\" von Dr. Oetker ",
+                "href": "https://shop.backen.de/Dr-Oetker-4-Back-und-Speisefarben",
+                "price": 9.99
+            }
+        },
+        {
+            "unit": "etwas",
+            "name": "orangene Lebensmittelfarbe",
+            "product": {
+                "image": "https://picsum.photos/id/119/88/88",
+                "name": "\"4 Lebensmittelfarben\" von Dr. Oetker ",
+                "href": "https://shop.backen.de/Dr-Oetker-4-Lebensmittelfarben",
+                "price": 6
+            }
+        },
+        {
+            "unit": "etwas",
+            "name": "rote Lebensmittelfarbe",
+            "product": {
+                "image": "https://picsum.photos/id/122/88/88",
+                "name": "\"4 Back- & Speisefarben\" von Dr. Oetker ",
+                "href": "https://shop.backen.de/Dr-Oetker-4-Back-und-Speisefarben",
+                "price": 0.4
+            }
+        },
+        {
+            "unit": "Pck.",
+            "amount": 1,
+            "name": "Vanillezucker"
+        },
+        {
+            "unit": "gestr. TL",
+            "amount": 0.5,
+            "name": "Backpulver"
+        },
+        {
+            "unit": "g",
+            "amount": 250,
+            "name": "Blaubeeren"
+        },
+        {
+            "unit": "g",
+            "amount": 500,
+            "name": "griechischer Joghurt"
+        },
+        {
+            "unit": "g",
+            "amount": 400,
+            "name": "Schlagsahne"
+        },
+        {
+            "unit": "Pck.",
+            "amount": 2,
+            "name": "Quarkfein Vanille",
+            "product": {
+                "image": "https://picsum.photos/id/125/88/88",
+                "name": "Quarkfein Vanille-Geschmack von Dr. Oetker",
+                "href": "https://www.oetker-shop.de/quarkfein-vanille-geschmack/?number=60-1-01-820400",
+                "price": 102.99
+            }
+        }
+    ],
+    "utensils": [
+        {
+            "name": "Backblech"
+        },
+        {
+            "name": "Backpinsel oder etwas Küchenpapier"
+        },
+        {
+            "name": "3 Bögen Backpapier"
+        },
+        {
+            "name": "kleiner Topf"
+        },
+        {
+            "name": "2 kleine Schüsseln"
+        },
+        {
+            "name": "Rührschüssel",
+            "product": {
+                "name": "Rührschüssel, 3 Liter von Dr. Oetker",
+                "href": "https://shop.backen.de/epages/backenshop.sf/de_DE/?ObjectID=249677"
+            }
+        },
+        {
+            "name": "Schneebesen",
+            "product": {
+                "name": "Schneebesen mit Holzgriff",
+                "href": "https://shop.backen.de/epages/backenshop.sf/de_DE/?ObjectPath=/Shops/BackenShop/Products/4619",
+                "image": {
+                    "alt": "a picture of Schneebesen mit Holzgriff",
+                    "sources": {
+                        "sm": "https://picsum.photos/id/133/250/250",
+                        "md": "https://picsum.photos/id/133/300/300",
+                        "lg": "https://picsum.photos/id/133/225/225",
+                        "default": "https://picsum.photos/id/133/145/145"
+                    }
+                },
+                "price": 40.45
+            }
+        },
+        {
+            "name": "3 kleine Schalen"
+        },
+        {
+            "name": "3 Spritzbeutel",
+            "product": {
+                "name": "Einweg-Spritzbeutel 30 Stk. von Dr. Oetker",
+                "href": "https://shop.backen.de/Dr-Oetker-Einweg-Spritzbeutel-30-Stk",
+                "image": {
+                    "alt": "a picture of Einweg-Spritzbeutel 30 Stk. von Dr. Oetker",
+                    "sources": {
+                        "sm": "https://picsum.photos/id/13/250/250",
+                        "md": "https://picsum.photos/id/13/300/300",
+                        "lg": "https://picsum.photos/id/13/225/225",
+                        "default": "https://picsum.photos/id/13/145/145"
+                    }
+                },
+                "price": 2.48,
+                "brand": "Dr. Oetker"
+            }
+        },
+        {
+            "name": "Schere"
+        },
+        {
+            "name": "2 Rührstäbe"
+        },
+        {
+            "name": "Mixer"
+        },
+        {
+            "name": "Tortenheber"
+        },
+        {
+            "name": "Sieb (zum Abtropfen)"
+        },
+        {
+            "name": "großes, scharfes Messer"
+        }
+    ],
+    "recommendedRecipes": [
+        {
+            "id": 16220,
+            "name": "Cupcake-Variationen",
+            "hasVideo": false,
+            "slug": "cupcake-variationen",
+            "activeDuration": 120,
+            "difficultyName": "Schwer",
+            "numberOfRatings": 51,
+            "rating": 4,
+            "image": {
+                "alt": "a picture of Cupcake-Variationen",
+                "sources": {
+                    "md": "https://picsum.photos/id/158/300/300",
+                    "lg": "https://picsum.photos/id/158/360/360",
+                    "default": "https://picsum.photos/id/158/288/288"
+                }
+            }
+        },
+        {
+            "id": 17620,
+            "name": "Erdnuss-Karamell-Torte",
+            "hasVideo": true,
+            "slug": "erdnuss-karamell-torte",
+            "activeDuration": 70,
+            "difficultyName": "Mittel",
+            "numberOfRatings": 651,
+            "rating": 3.8,
+            "image": {
+                "alt": "a picture of Erdnuss-Karamell-Torte",
+                "sources": {
+                    "md": "https://picsum.photos/id/160/300/300",
+                    "lg": "https://picsum.photos/id/160/360/360",
+                    "default": "https://picsum.photos/id/160/288/288"
+                }
+            }
+        },
+        {
+            "id": 43077,
+            "name": "Pikanter Blätterteigstern",
+            "hasVideo": false,
+            "slug": "pikanter-blaetterteigstern",
+            "activeDuration": 60,
+            "difficultyName": "Ganz einfach",
+            "numberOfRatings": 9,
+            "rating": 5,
+            "image": {
+                "alt": "a picture of Pikanter Blätterteigstern",
+                "sources": {
+                    "md": "https://picsum.photos/id/169/300/300",
+                    "lg": "https://picsum.photos/id/169/360/360",
+                    "default": "https://picsum.photos/id/169/288/288"
+                }
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "text": "Schäle **750 g Äpfel** und schneide sie auf einem Brettchen mit einem kleinen, scharfen Messer in Viertel. Jedes Viertel schneidest du nun etwa **5 mal** der Länge nach ein.",
+            "images": [
+                {
+                    "alt": "image showing how to peal an apple",
+                    "sources": {
+                        "lg": "https://picsum.photos/id/169/342/218", 
+                        "default": "https://picsum.photos/id/169/343/343"
+                    }
+                },
+                {
+                    "alt": "yet another image showing how to peal an apple",
+                    "sources": {
+                        "lg": "https://picsum.photos/id/170/342/218", 
+                        "default": "https://picsum.photos/id/170/343/343"
+                    }
+                }
+            ]
+        },
+        {
+            "text": "Damit sich der Kuchen nach dem Backen gut aus der Form lösen lässt, fette die Springform mit **etwas Butter** ein. Dazu kannst du einen Backpinsel oder etwas Küchenpapier benutzen.",
+            "images": [
+                {
+                    "alt": "image showing how to butter a pen",
+                    "sources": {
+                        "lg": "https://picsum.photos/id/174/342/218", 
+                        "default": "https://picsum.photos/id/174/343/343"
+                    }
+                }
+            ]
+        },
+        {
+            "text": "Damit der Backofen die richtige Temperatur hat, wenn der Kuchen bereit zum Backen ist, heize ihn jetzt schon einmal auf **180 °C Ober- und Unterhitze (160 °C Umluft)** vor.",
+            "images": [
+                {
+                    "alt": "image showing a fridge",
+                    "sources": {
+                        "lg": "https://picsum.photos/id/180/342/218", 
+                        "default": "https://picsum.photos/id/180/343/343"
+                    }
+                }
+            ]
+        },
+        {
+            "text": "Gib **125 g Butter(weich)** in eine Rührschüssel und rühre sie mit den Rührstäben des Mixers geschmeidig.",
+            "images": [
+                {
+                    "alt": "image showing some stuff",
+                    "sources": {
+                        "lg": "https://picsum.photos/id/182/342/218", 
+                        "default": "https://picsum.photos/id/182/343/343"
+                    }
+                },
+                {
+                    "alt": "image showing some other stuff",
+                    "sources": {
+                        "lg": "https://picsum.photos/id/183/342/218", 
+                        "default": "https://picsum.photos/id/183/343/343"
+                    }
+                },
+                {
+                    "alt": "image showing some other stuff too",
+                    "sources": {
+                        "lg": "https://picsum.photos/id/184/342/218", 
+                        "default": "https://picsum.photos/id/184/343/343"
+                    }
+                }
+            ],
+            "tip": {
+                "text": "Wenn die Butter noch recht fest ist, kannst du sie für wenige Sekunden in die Mikrowelle geben.",
+                "video": {
+                    "poster": {
+                        "lg": "https://picsum.photos/id/1072/720/459",
+                        "default": "https://picsum.photos/id/184/343/343"
+                    },
+                    "source": "https://www.w3schools.com/html/mov_bbb.mp4"
+                }
+            }
+        },
+        {
+            "text": "Rühre die Butter weiter und lass **100 g Zucker** langsam einrieseln.",
+            "images": [
+                {
+                    "alt": "image showing some stuff",
+                    "sources": {
+                        "lg": "https://picsum.photos/id/190/342/218", 
+                        "default": "https://picsum.photos/id/190/343/343"
+                    }
+                }
+            ]
+        },
+        {
+            "text": "Gib **1 Päckchen Vanillezucker** und **2 TL Zitronenextrakt** zum Teig und verrühre beides gründlich.",
+            "images": [
+                {
+                    "alt": "image showing some stuff",
+                    "sources": {
+                        "lg": "https://picsum.photos/id/191/342/218", 
+                        "default": "https://picsum.photos/id/191/343/343"
+                    }
+                }
+            ],
+            "tip": {
+                "text": "Damit das Aroma leichter aus dem Röhrchen kommt, kannst du mit einem Zahnstocher hineinpiksen, so löst sich ein Tröpfchen.",
+                "image": {
+                    "alt": "image of the tip",
+                    "sources": {
+                        "lg": "https://picsum.photos/id/2/720/459", 
+                        "default": "https://picsum.photos/id/2/343/343"
+                    }
+                }
+            }
+        },
+        {
+            "text": "This here is an example of an instruction step **without** an image. Currently there's no such example on backen.de but bakken.nl has steps that are text-only, so we have to have this capability"
+        }
+    ],
+    "analyticsTags": {
+        "brands": "dr. oetker",
+        "assortments": "backzutaten, dekore, bunte dekore, sonstiges",
+        "products": "gustin feine speisestärke von dr. oetker, 4 back- & speisefarben von dr. oetker, 4 lebensmittelfarben von dr. oetker, 4 back- & speisefarben von dr. oetker, quarkfein vanille-geschmack von dr. oetker, rührschüssel 3 liter von dr. oetker, schneebesen mit holzgriff, einweg-spritzbeutel 30 stk. von dr. oetker"
+    }
+}
